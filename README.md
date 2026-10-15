@@ -1,2 +1,3 @@
-# media_image_global
-Global image format settings and for Drupal.
+# Global Image Styles
+
+A collection of globally shared image styles. These styles can be reused in modules and when managing content through the Drupal administration interface.
