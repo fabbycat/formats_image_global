@@ -1,5 +1,5 @@
 {
-    "name": "drupal/formats_image_global",
+    "name": "formats_image_global",
     "description": "A collection of globally shared image styles. These styles can be reused in modules and when managing content through the Drupal administration interface.",
     "type": "module",
     "devDependencies": {
