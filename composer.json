@@ -1,6 +1,6 @@
 {
-    "name": "formats_image_global/formats_image_global",
-    "description": "A collection of globally shared image styles. These styles can be reused in modules and when managing content through the Drupal administration interface.",
+    "name": "image_style_confs/image_style_confs",
+    "description": "A collection image styles pre-configured for use with drupal. These styles can be reused in modules and when managing content through the Drupal administration interface.",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
     "require": {
