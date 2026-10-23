@@ -1,5 +1,5 @@
 {
-    "name": "image_style_confs",
+    "name": "image_style_confs NodeJS development tools",
     "description": "A collection image styles pre-configured for use with drupal. These styles can be reused in modules and when managing content through the Drupal administration interface.",
     "type": "module",
     "devDependencies": {
